@@ -10,5 +10,3 @@ Here are some ideas to get you started:
            Email     : phanendharreddykusuma@gmail.com
            Twitter   : phanendharr_ddy
            Linkedin  : phanendharreddy
-           Instagram : phanendh_r
-
