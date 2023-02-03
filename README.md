@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
            Email     : phanendharreddykusuma@gmail.com
 <p align="left">
-<a href="https://twitter.com/phanendharr_ddy" target="blank"><img align="center"  alt="phanendharreddy" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/phanendharreddy/" target="blank"><img align="center"  alt="https://www.linkedin.com/in/phanendharreddy/" /></a>
+<a href="phanendharreddykusuma@gmail.com" target="blank"> <img align="center" alt="Email" /></a>
+<a href="https://twitter.com/phanendharr_ddy" target="blank"><img align="center"  alt="Twitter" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/phanendharreddy/" target="blank"><img align="center"  alt="LinkedIn" /></a>
 </p>     
 
 
