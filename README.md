@@ -54,4 +54,16 @@ Results-driven Full Stack Java Developer with 3+ years of experience designing, 
 | ------------- | ------------- |
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=phanendharreddy&theme=github-dark&hide_border=true" alt="GitHub streak" /></a>
+
+<a href="https://github.com/phanendharreddy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phanendharreddy&theme=github_dark" alt="Profile summary" /></a>
+
+| <a href="https://github.com/phanendharreddy"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phanendharreddy&theme=github_dark" alt="Repos per language" /></a> | <a href="https://github.com/phanendharreddy"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phanendharreddy&theme=github_dark" alt="Most commit language" /></a> |
+| ------------- | ------------- |
+
+| <a href="https://github.com/phanendharreddy"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phanendharreddy&theme=github_dark" alt="Stats" /></a> | <a href="https://github.com/phanendharreddy"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phanendharreddy&theme=github_dark&utcOffset=0" alt="Productive time" /></a> |
+| ------------- | ------------- |
+
+<a href="https://github.com/phanendharreddy"><img src="https://github-readme-activity-graph.vercel.app/graph?username=phanendharreddy&theme=github-compact&hide_border=true" alt="Contribution graph" /></a>
+
+<a href="https://github.com/phanendharreddy"><img src="https://github-profile-trophy.vercel.app/?username=phanendharreddy&theme=darkhub&no-frame=true&column=6" alt="GitHub trophies" /></a>
   
